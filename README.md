@@ -1,2 +1,0 @@
-# Shienjeru
-Novato en desarrollo
